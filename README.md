@@ -1,5 +1,6 @@
 # Distractions
 ![image](https://media.tenor.com/wlLnO02mF9gAAAAd/distracted-distraction.gif)
+
 This repository contains the list of around ~400k hosts to protect your family from the dangers of the internet.
 
 ## How to set it up
