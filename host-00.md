@@ -1,4 +1,6 @@
-# P*rn hosts
+# Unwanted and Wrong Hosts
+This list contains hosts that are innapproriate and should be the first list to be blocked by you
+---
 0006666.net
 0310love.com
 081xxx.com
