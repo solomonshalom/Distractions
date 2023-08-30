@@ -1,5 +1,5 @@
 # Distractions
-![image](https://github.com/solomonshalom/Distractions/assets/71135230/b883a36b-3fc1-4516-af8e-bf9e1e37dc07)
+![image](https://media.tenor.com/wlLnO02mF9gAAAAd/distracted-distraction.gif)
 This repository contains the list of around ~400k hosts to protect your family from the dangers of the internet.
 
 ## How to set it up
